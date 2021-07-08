@@ -1,4 +1,4 @@
-%% Created by Rodrigo Benevides - aug/2019
+% Created by Rodrigo Benevides - aug/2019
 
 % options = optimoptions('ga','PopulationSize',30,'EliteCount',3,'MaxGenerations',100,'MaxStallGenerations',20,...
 % 'CrossoverFraction',0.2,'PlotInterval',1,'PlotFcn',{@gaplotbestf,@gaplotstopping});
