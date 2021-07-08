@@ -1,6 +1,6 @@
 function out = callcomsol;
 
-% Created by Rodrigo Benevides - aug/2019 %
+% Created by Rodrigo Benevides - aug/2019 
 
 import com.comsol.model.*
 import com.comsol.model.util.*
