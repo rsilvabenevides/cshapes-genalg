@@ -1,6 +1,6 @@
 function y = myfitness(x)
 
-%% Created by Rodrigo Benevides - aug/2019
+% Created by Rodrigo Benevides - aug/2019
 
 model = callcomsol
 
