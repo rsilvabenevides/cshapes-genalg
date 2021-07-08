@@ -1,6 +1,6 @@
 function [vec] = defect_generate(initial_size,final_size,numcells)
 
-%% Created by Rodrigo Benevides - aug/2019
+% Created by Rodrigo Benevides - aug/2019
 % generates gaussian profiles for defefct parameters
 
 if initial_size < final_size
